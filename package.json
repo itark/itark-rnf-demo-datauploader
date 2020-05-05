@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "firebase-admin": "^8.9.2"
+    "firebase-admin": "^8.9.2",
+    "firestore-export-import": "^0.5.0"
   }
 }

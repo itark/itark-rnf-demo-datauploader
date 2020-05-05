@@ -11,5 +11,3 @@ const settings = { timestampsInSnapshots: true };
 db.settings(settings);
 
 module.exports = db;
-
-//export default db;
