@@ -1,5 +1,4 @@
 const FirestoreUtils = require("../services/firestoreUtils");
-const collectionKey = "dishes";
 
 exports.create = async data => {
   try {
@@ -11,7 +10,10 @@ exports.create = async data => {
 };
 
 exports.createInBatch = (dishes) => {
-  FirestoreUtils.set(dishes, collectionKey);
+  const dishesee = {
+    'dishes': dishes
+  }
+  FirestoreUtils.restore(dishesee);
 };
 
 exports.readAll = async () => {

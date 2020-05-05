@@ -1,5 +1,4 @@
 const FirestoreUtils = require("../services/firestoreUtils");
-const collectionKey = "restaurants";
 
 exports.create = async data => {
   try {
@@ -11,7 +10,7 @@ exports.create = async data => {
 };
 
 exports.createInBatch = data => {
-  FirestoreUtils.set(data, collectionKey);
+  FirestoreUtils.restore(data);
 };
 
 exports.readAll = async () => {

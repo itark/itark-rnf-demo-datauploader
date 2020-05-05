@@ -5,9 +5,9 @@ const ReviewDAO = require("../dao/review-dao");
 const EventDAO = require("../dao/event-dao");
 const DishDAO = require("../dao/dish-dao");
 
-const restaurants = require("../json-models/restaurants.json");
-const reviews = require("../json-models/reviews.json");
-const events = require("../json-models/events.json");
+const restaurants = require("../json-models/restaurants2.json");
+const reviews = require("../json-models/reviews2.json");
+const events = require("../json-models/events2.json");
 const dishes = require("../json-models/dishes");
 
 
