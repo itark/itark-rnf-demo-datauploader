@@ -8,14 +8,14 @@ const DishDAO = require("../dao/dish-dao");
 const restaurants = require("../json-models/restaurants2.json");
 const reviews = require("../json-models/reviews2.json");
 const events = require("../json-models/events2.json");
-const dishes = require("../json-models/dishes");
+const dishes = require("../json-models/dishes2");
 
 
 exports.populate = () => {
-   RestaurantDAO.createInBatch(restaurants);
-   ReviewDAO.createInBatch(reviews);
+  //  RestaurantDAO.createInBatch(restaurants);
+  //  ReviewDAO.createInBatch(reviews);
    DishDAO.createInBatch(dishes);
-   EventDAO.createInBatch(events);
+  //  EventDAO.createInBatch(events);
 
 };
 

@@ -60,3 +60,5 @@ buck-out/
 
 # api key
 /ios/GoogleService-Info.plist
+
+src/serviceAccountKeyNO_GIT.json

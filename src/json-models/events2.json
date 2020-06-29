@@ -7,10 +7,10 @@
     "smallImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/small/thursday-seafood.jpeg",
     "thumbnailImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/thumbnail/thursday-seafood.jpeg",
     "title": "Torsdagens sjömat",
-    "description": "A day with dozens of the most delicious and exotic dishes from the sea!",
+    "description": "En dag med dussintals mest utsökta och exotiska rätter från havet!",
     "dishesTypes": ["Seafood"],
     "restaurantsParticipating": 18,
-    "id": 1
+    "id": "1"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/large/nippon.png",
@@ -18,10 +18,10 @@
     "thumbnailImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/thumbnail/nippon.png",
     "smallImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/small/nippon.png",
     "title": "Japansk dag",
-    "description": "The most exotic dishes from the Japanese cuisine will be here on this weekend.",
+    "description": "De mest exotiska rätter från det japanska köket kommer att finnas här i helgen",
     "dishesTypes": ["Japanese"],
     "restaurantsParticipating": 12,
-    "id": 2
+    "id": "2"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/large/pizza-fest.jpeg",
@@ -29,10 +29,10 @@
     "thumbnailImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/thumbnail/pizza-fest.jpeg",
     "smallImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/small/pizza-fest.jpeg",
     "title": "Festlig pizza",
-    "description": "The most diverse, delicious and exotic Pizzas that will find in your life!",
+    "description": "De mest mångsidiga, läckra och exotiska pizzorna som finns i ditt liv!",
     "dishesTypes": ["Pizza"],
     "restaurantsParticipating": 20,
-    "id": 3
+    "id": "3"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/large/healthy-food.jpeg",
@@ -40,10 +40,10 @@
     "thumbnailImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/thumbnail/healthy-food.jpeg",
     "smallImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/small/healthy-food.jpeg",
     "title": "Hälsosamt Liv",
-    "description": "Looking for some place with some healthy and good food? This will be the right choice for you.",
+    "description": "Letar du efter någon plats med lite hälsosam och god mat? Detta kommer att vara rätt val för dig.",
     "dishesTypes": ["Salad"],
     "restaurantsParticipating": 17,
-    "id": 4
+    "id": "4"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/large/pasta-fest.jpeg",
@@ -51,10 +51,10 @@
     "thumbnailImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/thumbnail/pasta-fest.jpeg",
     "smallImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/small/pasta-fest.jpeg",
     "title": "Pasta Festival",
-    "description": "An Amazing event with most extensive variety of the best of Italian cuisine!",
+    "description": "En fantastisk händelse med mest omfattande variation av det bästa av italienska köket!",
     "dishesTypes": ["Pasta"],
     "restaurantsParticipating": 19,
-    "id": 5
+    "id": "5"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/large/sweet-day.jpeg",
@@ -62,10 +62,10 @@
     "thumbnailImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/thumbnail/sweet-day.jpeg",
     "smallImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/small/sweet-day.jpeg",
     "title": "Sockerdag",
-    "description": "Sweet, Sweet everywhere! The most delicious sweets, candies and desserts of the city are here!",
+    "description": "Söt, söt överallt! De mest utsökta godisarna, godisarna och desserterna i staden finns här!",
     "dishesTypes": ["Dessert"],
     "restaurantsParticipating": 19,
-    "id": 6
+    "id": "6"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/large/only-grill.jpeg",
@@ -73,10 +73,10 @@
     "thumbnailImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/thumbnail/only-grill.jpeg",
     "smallImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/small/only-grill.jpeg",
     "title": "Bara på grillen",
-    "description": "Wishing a juicy steak for your dinner? You'll find the best of the grill in the city right here.",
+    "description": "Vill du ha en saftig biff till din middag? Här hittar du det bästa av grillen.",
     "dishesTypes": ["Barbecue"],
     "restaurantsParticipating": 17,
-    "id": 7
+    "id": "7"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/large/cearense-cuisine.jpeg",
@@ -84,10 +84,10 @@
     "thumbnailImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/thumbnail/cearense-cuisine.jpeg",
     "smallImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/small/cearense-cuisine.jpeg",
     "title": "Hmm, detta blir gott",
-    "description": "An Event focused only on the best dishes of the root culture of the state of Ceará.",
+    "description": "En händelse fokuserade endast på de bästa rätterna från rotkulturen i delstaten Ceará.",
     "dishesTypes": ["Homemade"],
     "restaurantsParticipating": 9,
-    "id": 8
+    "id": "8"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/large/fat-snacks.jpeg",
@@ -95,10 +95,10 @@
     "thumbnailImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/thumbnail/fat-snacks.jpeg",
     "smallImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/events/small/fat-snacks.jpeg",
     "title": "Rund & go",
-    "description": "An unique opportunity to find the most amazing snacks of the city on the next Sunday!",
+    "description": "En unik möjlighet att hitta stadens mest fantastiska snacks nästa söndag!",
     "dishesTypes": ["Fast-Food"],
     "restaurantsParticipating": 11,
-    "id": 9
+    "id": "9"
   }
  ]
 }

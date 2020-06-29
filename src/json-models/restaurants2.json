@@ -12,7 +12,8 @@
     },
     "operatingHours": { "open": "17:00", "close": "00:00" },
     "description": "The best option for those that are looking for something healthy to put on their mouths.",
-    "dishesTypes": ["Dessert", "Salad", "Seafood"]
+    "dishesTypes": ["Dessert", "Salad", "Seafood"],
+    "id": "1"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/lanche-abencoado.jpeg",
@@ -26,7 +27,8 @@
     },
     "operatingHours": { "open": "17:00", "close": "00:30" },
     "description": "Dozens of sandwiches and Pizzas types, and with the possibility to eat some sweet at the end!",
-    "dishesTypes": ["Fast-Food", "Pizza", "Pasta", "Dessert"]
+    "dishesTypes": ["Fast-Food", "Pizza", "Pasta", "Dessert"],
+    "id": "2"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/legusto.jpeg",
@@ -40,7 +42,8 @@
     },
     "operatingHours": { "open": "18:00", "close": "00:00" },
     "description": "Surrounded by the best of the Italian cuisine, we can make you just fall in love with our pasta.",
-    "dishesTypes": ["Pasta", "Pizza", "Dessert", "Fast-Food", "Barbecue"]
+    "dishesTypes": ["Pasta", "Pizza", "Dessert", "Fast-Food", "Barbecue"],
+    "id": "3"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/bangs.jpeg",
@@ -54,7 +57,8 @@
     },
     "operatingHours": { "open": "11:00", "close": "00:00" },
     "description": "Lots of different meat options, dozens of pasta options and a mix of all of this in our fast-food dishes.",
-    "dishesTypes": ["Pasta", "Pizza", "Fast-Food", "Barbecue"]
+    "dishesTypes": ["Pasta", "Pizza", "Fast-Food", "Barbecue"],
+    "id": "4"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/cantinho-frango.jpeg",
@@ -68,7 +72,8 @@
     },
     "operatingHours": { "open": "16:00", "close": "22:30" },
     "description": "We can make you remember your first meal that you had in your life with our Homemade dishes, fall in love for our pasta, and desire our meat.",
-    "dishesTypes": ["Pasta", "Homemade", "Barbecue"]
+    "dishesTypes": ["Pasta", "Homemade", "Barbecue"],
+    "id": "5"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/cabana-jardins.jpeg",
@@ -82,7 +87,8 @@
     },
     "operatingHours": { "open": "12:00", "close": "00:00" },
     "description": "With an adorable environment, you'll delicious with our options, either for lunch or dinner options.",
-    "dishesTypes": ["Seafood", "Homemade", "Barbecue", "Salad"]
+    "dishesTypes": ["Seafood", "Homemade", "Barbecue", "Salad"],
+    "id": "6"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/santa-grelha-meireles.jpeg",
@@ -96,7 +102,8 @@
     },
     "operatingHours": { "open": "11:30", "close": "00:00" },
     "description": "We are masters of grill, we can make the best grill that you ever tasted, but without forget the healthy line.",
-    "dishesTypes": ["Dessert", "Homemade", "Barbecue", "Japanese", "Salad"]
+    "dishesTypes": ["Dessert", "Homemade", "Barbecue", "Japanese", "Salad"],
+    "id": "7"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/misaki.jpeg",
@@ -110,7 +117,8 @@
     },
     "operatingHours": { "open": "11:30", "close": "01:00" },
     "description": "If you want a healthy food that makes your body to thank you, we have the right fuel for you.",
-    "dishesTypes": ["Japanese", "Salad", "Dessert"]
+    "dishesTypes": ["Japanese", "Salad", "Dessert"],
+    "id": "8"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/cabana-riomar.jpeg",
@@ -131,7 +139,8 @@
       "Dessert",
       "Japanese",
       "Salad"
-    ]
+    ],
+    "id": "9"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/dom-pastel.jpeg",
@@ -145,7 +154,8 @@
     },
     "operatingHours": { "open": "11:00", "close": "01:00" },
     "description": "Are you a pasta lover? If you do, this is the right place for you. We promise, you won't regret.",
-    "dishesTypes": ["Pasta", "Pizza", "Fast-Food"]
+    "dishesTypes": ["Pasta", "Pizza", "Fast-Food"],
+    "id": "10"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/coco-bambu-meireles.jpeg",
@@ -159,7 +169,8 @@
     },
     "operatingHours": { "open": "11:00", "close": "02:00" },
     "description": "We have the most healthy food in the city. If you're looking for something to keep your diet, this place is for you.",
-    "dishesTypes": ["Seafood", "Salad", "Dessert", "Japanese"]
+    "dishesTypes": ["Seafood", "Salad", "Dessert", "Japanese"],
+    "id": "11"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/coco-bambu-sul.jpeg",
@@ -173,7 +184,8 @@
     },
     "operatingHours": { "open": "11:30", "close": "01:00" },
     "description": "With a simple way, we can make you feel something new and unique after to taste our amazing dishes.",
-    "dishesTypes": ["Seafood", "Japanese", "Salad", "Dessert"]
+    "dishesTypes": ["Seafood", "Japanese", "Salad", "Dessert"],
+    "id": "12"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/geppos-beira-mar.jpeg",
@@ -187,7 +199,8 @@
     },
     "operatingHours": { "open": "16:00", "close": "02:00" },
     "description": "Do you love a light food? You're tired of heavy weight food and want something more clean? If you do, you're invited.",
-    "dishesTypes": ["Seafood", "Japanese", "Salad", "Dessert"]
+    "dishesTypes": ["Seafood", "Japanese", "Salad", "Dessert"],
+    "id": "13"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/balcony-bistro.jpeg",
@@ -201,7 +214,8 @@
     },
     "operatingHours": { "open": "19:00", "close": "00:00" },
     "description": "We have a lot of possibilites of pastas, but we also have the most delicious desserts and salads of the city. Visit us!",
-    "dishesTypes": ["Pasta", "Barbecue", "Seafood", "Salad", "Dessert"]
+    "dishesTypes": ["Pasta", "Barbecue", "Seafood", "Salad", "Dessert"],
+    "id": "14"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/lo.jpeg",
@@ -215,7 +229,8 @@
     },
     "operatingHours": { "open": "19:00", "close": "01:00" },
     "description": "Are you looking for something different to eat? If you do, we have a lot of options for your taste!",
-    "dishesTypes": ["Japanese", "Seafood", "Salad", "Dessert"]
+    "dishesTypes": ["Japanese", "Seafood", "Salad", "Dessert"],
+    "id": "15"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/mais-sabor.jpeg",
@@ -229,7 +244,8 @@
     },
     "operatingHours": { "open": "16:00", "close": "00:00" },
     "description": "We have the best pasta of this side of the city. We are master of make people fall in love with food.",
-    "dishesTypes": ["Fast-Food", "Pasta", "Pizza", "Japanese", "Dessert"]
+    "dishesTypes": ["Fast-Food", "Pasta", "Pizza", "Japanese", "Dessert"],
+    "id": "16"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/oxente.jpeg",
@@ -243,7 +259,8 @@
     },
     "operatingHours": { "open": "05:00", "close": "02:00" },
     "description": "Are you looking for something simple, but different and delicious? If you do so, you came to the right place!",
-    "dishesTypes": ["Fast-Food", "Pasta", "Pizza", "Homemade", "Dessert"]
+    "dishesTypes": ["Fast-Food", "Pasta", "Pizza", "Homemade", "Dessert"],
+    "id": "17"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/laco-vaqueiro.jpeg",
@@ -257,7 +274,8 @@
     },
     "operatingHours": { "open": "10:00", "close": "22:00" },
     "description": "With the most fresh vegetables, we have the most delicious salads in the city, as the best homemade cuisine too!",
-    "dishesTypes": ["Homemade", "Pasta", "Salad", "Barbecue", "Pizza"]
+    "dishesTypes": ["Homemade", "Pasta", "Salad", "Barbecue", "Pizza"],
+    "id": "18"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/top-sushi-lounge.jpeg",
@@ -271,7 +289,8 @@
     },
     "operatingHours": { "open": "18:00", "close": "23:00" },
     "description": "Are you expecting something exotic for your next meal? We think that we can help you to found it out.",
-    "dishesTypes": ["Japanese", "Seafood", "Salad", "Dessert"]
+    "dishesTypes": ["Japanese", "Seafood", "Salad", "Dessert"],
+    "id": "19"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/picanha-savio.jpeg",
@@ -285,7 +304,8 @@
     },
     "operatingHours": { "open": "10:30", "close": "22:30" },
     "description": "We have the most complete cuisine in the city. With options that make anyone really enjoy their time with our delicious dishes.",
-    "dishesTypes": ["Barbecue", "Pizza", "Pasta", "Fast-Food", "Seafood"]
+    "dishesTypes": ["Barbecue", "Pizza", "Pasta", "Fast-Food", "Seafood"],
+    "id": "20"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/sabor-baiao.jpeg",
@@ -299,7 +319,8 @@
     },
     "operatingHours": { "open": "08:00", "close": "00:00" },
     "description": "Simple and delicious. That'ts what you can expect from ours amazing and delicious dishes.",
-    "dishesTypes": ["Barbecue", "Pizza", "Pasta", "Homemade", "Seafood"]
+    "dishesTypes": ["Barbecue", "Pizza", "Pasta", "Homemade", "Seafood"],
+    "id": "21"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/temakeria-forataleza.jpeg",
@@ -313,7 +334,8 @@
     },
     "operatingHours": { "open": "18:00", "close": "23:00" },
     "description": "The best options for those that really enjoy an exotic cuisine, and always like to try something new.",
-    "dishesTypes": ["Japanese", "Seafood", "Salad", "Dessert"]
+    "dishesTypes": ["Japanese", "Seafood", "Salad", "Dessert"],
+    "id": "22"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/churrascaria-elmos-grill.jpeg",
@@ -327,7 +349,8 @@
     },
     "operatingHours": { "open": "10:00", "close": "23:00" },
     "description": "Delicious and Lovely are the best words to describe what we serve in here.",
-    "dishesTypes": ["Barbecue", "Japanese", "Seafood", "Pizza", "Pasta"]
+    "dishesTypes": ["Barbecue", "Japanese", "Seafood", "Pizza", "Pasta"],
+    "id": "23"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/rei-sushi.jpeg",
@@ -341,7 +364,8 @@
     },
     "operatingHours": { "open": "11:00", "close": "22:00" },
     "description": "With the best of Japan culture, we serve the most delicious dishes in the city. Come and see for yourself!",
-    "dishesTypes": ["Dessert", "Japanese", "Seafood", "Salad", "Pasta"]
+    "dishesTypes": ["Dessert", "Japanese", "Seafood", "Salad", "Pasta"],
+    "id": "24"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/porquinho-ouro.jpeg",
@@ -355,7 +379,8 @@
     },
     "operatingHours": { "open": "11:00", "close": "00:00" },
     "description": "If you really enjoy a delicious food roasted on grill, we have options that you want to repeat and repeat again.",
-    "dishesTypes": ["Barbecue", "Seafood", "Pizza", "Pasta"]
+    "dishesTypes": ["Barbecue", "Seafood", "Pizza", "Pasta"],
+    "id": "25"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/dom-anderson.jpeg",
@@ -369,7 +394,8 @@
     },
     "operatingHours": { "open": "14:00", "close": "23:00" },
     "description": "The perfect place to talk to your friends and family, while eat something really good.",
-    "dishesTypes": ["Barbecue", "Pizza", "Pasta", "Seafood"]
+    "dishesTypes": ["Barbecue", "Pizza", "Pasta", "Seafood"],
+    "id": "26"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/kyoto-sushi.jpeg",
@@ -383,7 +409,8 @@
     },
     "operatingHours": { "open": "17:00", "close": "02:00" },
     "description": "Delicious desserts, amazing salads, exotics seafoods and an amazing japanese cuisine are expeting for you righth here!",
-    "dishesTypes": ["Japanese", "Salad", "Dessert", "Seafood"]
+    "dishesTypes": ["Japanese", "Salad", "Dessert", "Seafood"],
+    "id": "27"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/nory.jpeg",
@@ -397,7 +424,8 @@
     },
     "operatingHours": { "open": "18:00", "close": "00:00" },
     "description": "The best options for those tat has a refined taste, and is always looking for a extraordinary thing to dinner.",
-    "dishesTypes": ["Japanese", "Salad", "Dessert", "Seafood"]
+    "dishesTypes": ["Japanese", "Salad", "Dessert", "Seafood"],
+    "id": "28"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/nenem-picanha.jpeg",
@@ -411,7 +439,8 @@
     },
     "operatingHours": { "open": "08:00", "close": "22:00" },
     "description": "Good environment and amazing dishes make of this place the best place in the city to hang out with your family.",
-    "dishesTypes": ["Barbecue", "Pasta", "Pizza", "Salad", "Seafood"]
+    "dishesTypes": ["Barbecue", "Pasta", "Pizza", "Salad", "Seafood"],
+    "id": "29"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/sabor-massa.jpeg",
@@ -425,7 +454,8 @@
     },
     "operatingHours": { "open": "17:00", "close": "23:00" },
     "description": "The most diversified menu in the city, and with a lot of different options that will make you come back!",
-    "dishesTypes": ["Pizza", "Pasta", "Japanese", "Salad", "Seafood"]
+    "dishesTypes": ["Pizza", "Pasta", "Japanese", "Salad", "Seafood"],
+    "id": "30"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/spoleto.jpeg",
@@ -439,7 +469,8 @@
     },
     "operatingHours": { "open": "10:00", "close": "22:00" },
     "description": "The best mix of different cusines you can find in here. We assure that you will love it.",
-    "dishesTypes": ["Pizza", "Pasta", "Japanese", "Salad", "Seafood"]
+    "dishesTypes": ["Pizza", "Pasta", "Japanese", "Salad", "Seafood"],
+    "id": "31"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/50-sabores.jpeg",
@@ -453,7 +484,8 @@
     },
     "operatingHours": { "open": "10:00", "close": "00:00" },
     "description": "The best meat of the city and the best options from sea. This the place for you tonight.",
-    "dishesTypes": ["Barbecue", "Pizza", "Pasta", "Seafood"]
+    "dishesTypes": ["Barbecue", "Pizza", "Pasta", "Seafood"],
+    "id": "32"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/emporio-fatima.jpeg",
@@ -467,7 +499,8 @@
     },
     "operatingHours": { "open": "17:30", "close": "00:00" },
     "description": "We have the best of the Italian cuisine, with dishes that will make you fall in love for us.",
-    "dishesTypes": ["Pasta", "Pizza", "Fast-Food", "Seafood"]
+    "dishesTypes": ["Pasta", "Pizza", "Fast-Food", "Seafood"],
+    "id": "33"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/matuto.jpeg",
@@ -481,7 +514,8 @@
     },
     "operatingHours": { "open": "10:00", "close": "22:00" },
     "description": "Extraordinary sense of good taste? We have the right choices for your next meal.",
-    "dishesTypes": ["Barbecue", "Pasta", "Pizza", "Seafood"]
+    "dishesTypes": ["Barbecue", "Pasta", "Pizza", "Seafood"],
+    "id": "34"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/porpino-burger.jpeg",
@@ -495,7 +529,8 @@
     },
     "operatingHours": { "open": "17:00", "close": "02:00" },
     "description": "The most complete menu in the city will provide you a lot of new sensations and tastes.",
-    "dishesTypes": ["Fast-Food", "Pizza", "Salad", "Barbecue"]
+    "dishesTypes": ["Fast-Food", "Pizza", "Salad", "Barbecue"],
+    "id": "35"
   },
   {
     "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/barreto.jpeg",
@@ -509,7 +544,23 @@
     },
     "operatingHours": { "open": "11:00", "close": "23:30" },
     "description": "With dozens of options of the main cuisines of the world, you assure that you won't regret.",
-    "dishesTypes": ["Barbecue", "Pasta", "Dessert", "Seafood", "Fast-Food"]
+    "dishesTypes": ["Barbecue", "Pasta", "Dessert", "Seafood", "Fast-Food"],
+    "id": "36"
+  },
+  {
+    "imageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/large/sabor-baiao.jpeg",
+    "mediumImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/medium/sabor-baiao.jpeg",
+    "thumbnailImageURL": "https://s3-sa-east-1.amazonaws.com/bon-appetit-resources/restaurants/thumbnail/sabor-baiao.jpeg",
+    "name": "Fiskekrogen",
+    "stars": 9.9,
+    "location": {
+      "coordinates": [57.7000553,11.9538636],
+      "address": "Lilla torget 1, 411 18 Göteborg"
+    },
+    "operatingHours": { "open": "08:00", "close": "00:00" },
+    "description": "Det bästa från havet in i framtiden.",
+    "dishesTypes": ["Seafood"],
+    "id": "37"
   }
  ]
 }
